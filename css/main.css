@@ -236,7 +236,7 @@ header nav ul li a:hover{
 	font-size: 22px;
 	color: #4d4d4d;
 	text-transform: uppercase;
-	letter-spacing: 50;
+	letter-spacing: 0;
 }
 
 .services ul li p{
@@ -258,7 +258,7 @@ button{border: 0; background: none; outline: none; cursor: pointer;}
 }
 .video #video {
   width: 686px;
-  box-shadow: 0 0 5px 5px rgba(243, 241, 239);
+  box-shadow: 0 0 5px 5px rgba(243, 241, 239)
 }
 body.fullscreen .video{
   z-index: 1;
